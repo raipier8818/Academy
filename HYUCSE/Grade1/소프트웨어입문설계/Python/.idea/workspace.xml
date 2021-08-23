@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9ddf161-880d-41c9-bdfb-b2c4bc566319" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aKfkTNcRDfRSFl7nb6uNn8bdOY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.Practice1">
+    <configuration name="2020063045_hw4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="파이썬" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020063045_hw4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2020063045_hw5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="파이썬" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\J\Desktop\python\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020063045_hw5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Object" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="파이썬" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\J\Desktop\python\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Object.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Practice1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="파이썬" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Practice1" />
+        <item itemvalue="Python.2020063045_hw5" />
+        <item itemvalue="Python.Object" />
+        <item itemvalue="Python.2020063045_hw4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9ddf161-880d-41c9-bdfb-b2c4bc566319" name="Default Changelist" comment="" />
+      <created>1586489348795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586489348795</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="385" y="186" key="#2020063045_hw4" timestamp="1586491899582">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="385" y="186" key="#2020063045_hw4/0.0.2048.1240@0.0.2048.1240" timestamp="1586491899582" />
+    <state x="1259" y="235" key="#2020063045_hw5" timestamp="1586953924429">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="1259" y="235" key="#2020063045_hw5/0.0.2048.1240@0.0.2048.1240" timestamp="1586953924429" />
+    <state x="194" y="252" key="#Notifications" timestamp="1588123885678">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="194" y="252" key="#Notifications/0.0.2048.1240@0.0.2048.1240" timestamp="1588123885678" />
+    <state x="967" y="274" key="#Object" timestamp="1586951742146">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="967" y="274" key="#Object/0.0.2048.1240@0.0.2048.1240" timestamp="1586951742146" />
+    <state x="324" y="206" key="#Practice1" timestamp="1588123866944">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="324" y="206" key="#Practice1/0.0.2048.1240@0.0.2048.1240" timestamp="1588123866944" />
+    <state x="601" y="332" key="FileChooserDialogImpl" timestamp="1586606974702">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="601" y="332" key="FileChooserDialogImpl/0.0.2048.1240@0.0.2048.1240" timestamp="1586606974702" />
+    <state width="501" height="229" key="GridCell.Tab.0.bottom" timestamp="1588124141456">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state width="501" height="229" key="GridCell.Tab.0.bottom/0.0.2048.1240@0.0.2048.1240" timestamp="1588124141456" />
+    <state width="501" height="229" key="GridCell.Tab.0.center" timestamp="1588124141456">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state width="501" height="229" key="GridCell.Tab.0.center/0.0.2048.1240@0.0.2048.1240" timestamp="1588124141456" />
+    <state width="501" height="229" key="GridCell.Tab.0.left" timestamp="1588124141456">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state width="501" height="229" key="GridCell.Tab.0.left/0.0.2048.1240@0.0.2048.1240" timestamp="1588124141456" />
+    <state width="501" height="229" key="GridCell.Tab.0.right" timestamp="1588124141456">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state width="501" height="229" key="GridCell.Tab.0.right/0.0.2048.1240@0.0.2048.1240" timestamp="1588124141456" />
+    <state width="1001" height="427" key="GridCell.Tab.1.bottom" timestamp="1586957468487">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state width="1001" height="427" key="GridCell.Tab.1.bottom/0.0.2048.1240@0.0.2048.1240" timestamp="1586957468487" />
+    <state width="1001" height="427" key="GridCell.Tab.1.center" timestamp="1586957468487">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state width="1001" height="427" key="GridCell.Tab.1.center/0.0.2048.1240@0.0.2048.1240" timestamp="1586957468487" />
+    <state width="1001" height="427" key="GridCell.Tab.1.left" timestamp="1586957468487">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state width="1001" height="427" key="GridCell.Tab.1.left/0.0.2048.1240@0.0.2048.1240" timestamp="1586957468487" />
+    <state width="1001" height="427" key="GridCell.Tab.1.right" timestamp="1586957468487">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state width="1001" height="427" key="GridCell.Tab.1.right/0.0.2048.1240@0.0.2048.1240" timestamp="1586957468487" />
+    <state x="1046" y="265" key="SettingsEditor" timestamp="1588123876095">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="1046" y="265" key="SettingsEditor/0.0.2048.1240@0.0.2048.1240" timestamp="1588123876095" />
+    <state x="352" y="397" key="com.intellij.ide.util.TipDialog" timestamp="1588681690958">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="352" y="397" key="com.intellij.ide.util.TipDialog/0.0.2048.1240@0.0.2048.1240" timestamp="1588681690958" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2020063045_hw5.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
